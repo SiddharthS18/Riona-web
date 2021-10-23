@@ -15,7 +15,7 @@ const ProductDetail = styled.div`
   flex: 2;
   display: flex;
 `;
-
+//hello
 const Image = styled.img`
   width: 200px;
 `;
